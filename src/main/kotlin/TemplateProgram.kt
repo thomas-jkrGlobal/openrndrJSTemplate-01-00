@@ -8,7 +8,7 @@ suspend fun main() = applicationAsync {
         extend {
             val a = rgb("#ff0000")
             drawer.clear(a)
-            drawer.fill = ColorRGBa.WHITE
+            drawer.fill = ColorRGBa.GREEN
             drawer.circle(width / 2.0, height / 2.0, 100.0 + cos(seconds) * 40.0)
         }
     }
