@@ -1,0 +1,8 @@
+abi_version=1.7.0
+builtins_platform=JS
+compiler_version=1.8.10
+depends=org.openrndr\:openrndr-webgl org.openrndr.extra\:orx-fx org.openrndr.extra\:orx-image-fit org.openrndr.extra\:orx-noise org.openrndr.extra\:orx-color org.openrndr.extra\:orx-hash-grid org.openrndr.extra\:orx-parameters org.openrndr.extra\:orx-shader-phrases org.openrndr\:openrndr-application org.openrndr\:openrndr-dds org.openrndr\:openrndr-filter org.openrndr\:openrndr-draw org.openrndr\:openrndr-animatable org.openrndr\:openrndr-shape org.openrndr\:openrndr-utils org.openrndr\:openrndr-color org.openrndr\:openrndr-ktessellation org.openrndr\:openrndr-math org.openrndr\:openrndr-event org.openrndr\:openrndr-kartifex io.github.microutils\:kotlin-logging org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlinx\:kotlinx-serialization-core kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_version=1.0.0
+jsOutputName=openrndr-js-template
+metadata_version=1.4.1
+unique_name=org.example\:openrndr-js-template

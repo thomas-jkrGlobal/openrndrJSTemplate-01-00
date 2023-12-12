@@ -1,0 +1,8 @@
+builtins_platform=JS
+unique_name=org.openrndr\:openrndr-dds
+compiler_version=1.7.21
+depends=org.openrndr\:openrndr-draw org.openrndr\:openrndr-shape org.openrndr\:openrndr-utils org.openrndr\:openrndr-color org.openrndr\:openrndr-ktessellation org.openrndr\:openrndr-math org.openrndr\:openrndr-event org.openrndr\:openrndr-kartifex io.github.microutils\:kotlin-logging org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+jsOutputName=openrndr-openrndr-dds
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0

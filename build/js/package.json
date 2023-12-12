@@ -1,0 +1,17 @@
+{
+  "name": "openrndr-js-template",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages/openrndr-js-template",
+    "packages/openrndr-js-template-test",
+    "packages_imported/kotlin/1.8.10",
+    "packages_imported/kotlin-test-js-runner/1.8.10"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

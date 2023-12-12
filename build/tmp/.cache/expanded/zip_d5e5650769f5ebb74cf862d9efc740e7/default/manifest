@@ -1,0 +1,8 @@
+builtins_platform=JS
+unique_name=org.openrndr\:openrndr-event
+compiler_version=1.7.21
+depends=io.github.microutils\:kotlin-logging kotlin
+jsOutputName=openrndr-openrndr-event
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0

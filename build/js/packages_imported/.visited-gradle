@@ -1,0 +1,100 @@
+{
+  "version": "9",
+  "items": {
+    "3820b665aa959d051951e0d695374c0e": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.8.10/7f93c25deb9f979fa60c91720d1b0b6bfcb678e3/kotlin-stdlib-js-1.8.10.jar",
+      "target": "kotlin/1.8.10"
+    },
+    "f759a84445cc1297e3b0e2d63d08b9ad": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.10/a61b182458550492c12aee66157d7b524a63a5ec/kotlin-stdlib-common-1.8.10.jar"
+    },
+    "e75001143ca8d0cd9425eb911264fd71": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.8.10/1e90b778ea4669b6bcbfaca57313665ddd804779/kotlin-reflect-1.8.10.jar"
+    },
+    "207c854af635e821be5841ebc05a5078": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.10/6d5560a229477df9406943d5feda5618e98eb64c/kotlin-stdlib-1.8.10.jar"
+    },
+    "72ac29dee68b63d11710f49a42861308": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+    },
+    "47527702f65e2a1660361f2b27213e02": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-application-js/0.4.2/1909b45ed6b1de0e696ebe38260ec0814a2382ed/openrndr-application-js-0.4.2.klib"
+    },
+    "01227df9e17e122cea8a798ba532233e": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-draw-js/0.4.2/5d5f74c796d18e30b6e4030cea93d34ddfbb1c51/openrndr-draw-js-0.4.2.klib"
+    },
+    "860416a4bb33d2c0d9ad633773f2ef45": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-shape-js/0.4.2/e7c7844179ab81f3d7303e5f53d64ae917a67b54/openrndr-shape-js-0.4.2.klib"
+    },
+    "e18d17072b5ebc2220c3e5e798d703f4": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-utils-js/0.4.2/2d0d4a3f674891c3e3505841cc6fce11a1c66cfc/openrndr-utils-js-0.4.2.klib"
+    },
+    "35729b9b6a85e334210d1b89da852841": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-math-js/0.4.2/c90332c5e9f43ddc981530e4aabdf2c196fef5a5/openrndr-math-js-0.4.2.klib"
+    },
+    "f56cf1c9bddf224bc4bd84ae752425bc": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/io.github.microutils/kotlin-logging-js/2.1.23/a512bf6b35b5f327cec0fc4bc367a4d390758303/kotlin-logging-jsir-2.1.23.klib"
+    },
+    "f87e1091f3042c2a72bd4350c41785fa": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-js/1.4.1/f6e619b57ae5a92c2247f92e8e6712cedc0b81c2/kotlinx-serialization-core-jsir-1.4.1.klib"
+    },
+    "87b37b026e9680692b36e7c4c08334c2": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.6.4/791d62c16e6fad7cc9b1e6fafe88a3d454744d99/kotlinx-coroutines-core-jsir-1.6.4.klib"
+    },
+    "489089308e6bacd4b18fc93c501bb01c": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.17.3/5fd992f78532945e29a1c54279eafffe2a0c95fe/atomicfu-jsir-0.17.3.klib"
+    },
+    "68b4fc3260b20bef86b65f0a39fae75a": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/atomicfu/1.6.21/f486917a9c89e5c7d5d08009d58ad810a57a7011/atomicfu-1.6.21.jar"
+    },
+    "397aa52f0fc5c1ec5c35fd0aaaa088ed": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-color-js/0.4.2/e357aa14a5059c91378186e4ba0be738f8db1384/openrndr-color-js-0.4.2.klib"
+    },
+    "65ad7d65bccb96c330df860bdc6ab7ac": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-ktessellation-js/0.4.2/528dca09f59457099a2d219a84a7096ff4977399/openrndr-ktessellation-js-0.4.2.klib"
+    },
+    "1c2622b1dc08deb6db86f403ad70d5cd": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-kartifex-js/0.4.2/288211467361ea7cc67f085e56f6862e8c76088f/openrndr-kartifex-js-0.4.2.klib"
+    },
+    "d5e5650769f5ebb74cf862d9efc740e7": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-event-js/0.4.2/e2750e6af8d14330d04f17ca7ef003b06611a414/openrndr-event-js-0.4.2.klib"
+    },
+    "fa750b59e35bb88e167273663d72e1da": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-animatable-js/0.4.2/8bd302863ac8711a57305bcf1897df996fdb70eb/openrndr-animatable-js-0.4.2.klib"
+    },
+    "3ff422938f4d3abd26de000354346d7d": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-dds-js/0.4.2/8f86d22338be48d6559f92737fd74ae042c25012/openrndr-dds-js-0.4.2.klib"
+    },
+    "fa0d89ed639048d24de96d556e952132": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-webgl-js/0.4.2/c094c5051b82f5c1b0be414132a8a8161628bae3/openrndr-webgl-js-0.4.2.klib"
+    },
+    "63d804d6977df38ee3a9e6bb6bbd0b20": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-fx-js/0.4.2/9d7a34b99993bd44313260e5301c937097e4e763/orx-fx-js-0.4.2.klib"
+    },
+    "8324fa92c41b93dadc61c5c01f73804f": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-color-js/0.4.2/ba9417272cf5faddd6e44cad2efa66b1bbdea7d9/orx-color-js-0.4.2.klib"
+    },
+    "bfc69e1f2b6001e3562fcf04c7c04003": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-parameters-js/0.4.2/2989de2ca8abde87bcfb2858563eca1cb4708980/orx-parameters-js-0.4.2.klib"
+    },
+    "da1fd457324532fdb772aefce54a593f": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-shader-phrases-js/0.4.2/3dc4717ebd3af7057651a978510969af341fd9f1/orx-shader-phrases-js-0.4.2.klib"
+    },
+    "efd224db970b6a3189dfeb9fd06c48e6": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr/openrndr-filter-js/0.4.2/ff0984d50914a883212757ddd75cb087a5778e6c/openrndr-filter-js-0.4.2.klib"
+    },
+    "a78d85ed7deaba72927712660ad3ed0a": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-image-fit-js/0.4.2/d540d3125446e05ec42b8d406160de8eea523d87/orx-image-fit-js-0.4.2.klib"
+    },
+    "a794e2729b1cd369d06b306a3394e773": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-noise-js/0.4.2/8594d0e2d42c894bae217a88914014a0bea13603/orx-noise-js-0.4.2.klib"
+    },
+    "421efaea655f8c2b6a93bd7e3e97afc4": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.openrndr.extra/orx-hash-grid-js/0.4.2/3e1db9475d3aec832b0cd84d7ad0d1dfc76b0e2c/orx-hash-grid-js-0.4.2.klib"
+    },
+    "1ac085e2f277a9a2ed0382b398248c53": {
+      "src": "/Users/thomas.mcelmeel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.8.10/b4f77e5ecd9c56fc312d90cb0ab919ee452dfb4/kotlin-test-js-runner-1.8.10.jar",
+      "target": "kotlin-test-js-runner/1.8.10"
+    }
+  }
+}
